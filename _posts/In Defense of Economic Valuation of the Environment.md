@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ```
 # In Defense of Economic Valuation of the Environment
