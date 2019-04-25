@@ -2,9 +2,9 @@
 published: true
 ---
 ```
-# In Defense of Economic Valuation of the Environment
+In Defense of Economic Valuation of the Environment
 
-## The stance taken by Arne Naess towards economic valuation of the environment
+The stance taken by Arne Naess towards economic valuation of the environment
 makes it look like the evil we should be fighting. It is our prejudices towards
 our position and role[s] in an ecosystem we should seek to defeat.
 
