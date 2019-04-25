@@ -1,3 +1,6 @@
+---
+published: false
+---
 ```
 # The eyes in the sky: On satellite imagery as big data.
 
@@ -15,8 +18,8 @@ lengths of Mozart’s pieces and even the scale of Leonardo da Vinci’s
 illustrations and drawings being prominent examples in the arts. Size and scale
 generally fascinate the human mind as their extremes are alien to our natural
 perception. In an introduction to his article (which I recommend you read)
-[Experiencing scale through
-science](https://meltingasphalt.com/experiencing-scale-through-science/)*. *The
+[Experiencing Scale Through
+Science](https://meltingasphalt.com/experiencing-scale-through-science/)*. *The
 essayist [Kevin Simler](https://medium.com/@kevinsimler) states the following:
 
 > Without microscopes, telescopes, or computers, humans of the recent past had few
